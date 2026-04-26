@@ -1,4 +1,3 @@
-<script>
   (function() {
     const storageKey = 'myAppData';
 
@@ -70,6 +69,5 @@
           setStoredData(updatedData);
         });
       });
-    });
+    });ז
   })();
-</script>
