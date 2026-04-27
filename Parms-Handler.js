@@ -69,5 +69,5 @@
           setStoredData(updatedData);
         });
       });
-    });ז
+    });
   })();
