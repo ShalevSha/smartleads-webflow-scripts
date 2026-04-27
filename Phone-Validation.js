@@ -1,4 +1,3 @@
-<script>
   // Phone Validation Script
   // Get all input elements with the name "Phone"
   const phoneInputs = document.querySelectorAll('input[name="Phone"]');
@@ -21,4 +20,3 @@
       event.target.value = value;
     });
   });
-</script>
